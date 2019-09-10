@@ -1,0 +1,18 @@
+.App {
+  background-color: orange;
+}
+
+.Buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Buttons button {
+  background-color: blue;
+  color: white;
+  width: 10%;
+  height: auto;
+  margin: 20px;
+  font-size: 2rem;
+}
