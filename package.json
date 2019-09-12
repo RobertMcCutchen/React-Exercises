@@ -1,0 +1,23 @@
+{
+  "name": "react-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertMcCutchen/React-Exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertMcCutchen/React-Exercises/issues"
+  },
+  "homepage": "https://github.com/RobertMcCutchen/React-Exercises#readme",
+  "dependencies": {
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
+  }
+}

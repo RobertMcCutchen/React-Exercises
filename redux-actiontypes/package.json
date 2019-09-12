@@ -1,5 +1,5 @@
 {
-  "name": "redux-display-exercise",
+  "name": "redux-actiontypes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

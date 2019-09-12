@@ -27,7 +27,7 @@ const subtractButtonClicked = () => {
 return (
     <div>
       <div className="counterDisplay">
-      {props.counter}</div>
+      {props.ctr}</div>
       <div className="Buttons">
         <button onClick={() => incrementButtonClicked()}>Increment</button>
         <button onClick={() => decrementButtonClicked()}>Decrement</button>
